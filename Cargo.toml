@@ -5,7 +5,7 @@ description = "API to interact with the proofs system in Filecoin"
 authors = ["dignifiedquire <me@dignifiedquire.com>"]
 edition = "2018"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/filecoin-project/rust-filecoin-proofs-api"
+repository = "https://github.com/ps130183/rust-filecoin-proofs-api"
 readme = "README.md"
 
 [dependencies]
